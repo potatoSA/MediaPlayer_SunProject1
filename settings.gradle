@@ -1,0 +1,2 @@
+rootProject.name='MediaPlayer_SunProject1'
+include ':app'
